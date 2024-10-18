@@ -42,8 +42,8 @@
 		"gmailAccount": {
 			"email": "virtuosocompany1@gmail.com",
 			"clientId": "785975045163-k4gpnejia4ep0e2n1cl15f7145govjpm.apps.googleusercontent.com",
-			"clientSecret": "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",
-			"refreshToken": "1//043CkEGiYDeHqCgYIARAAGAQSNwF-L9IrnWp2ceBqLJ2ADXuyvkFbmFe4Z3XPFIXLxny5RCwdNCKOfREhuFBinBTAaBdjvwZiWo8",
+			"clientSecret": "",
+			"refreshToken": "",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
