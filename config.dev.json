@@ -3,7 +3,7 @@
 		"email": "",
 		"password": "",
 		"2FASecret": "",
-		"i_user": "",
+		"i_user": "1546328846270978",
 		"proxy": null,
 		"userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
 		"intervalGetNewCookie": 1440,
@@ -18,7 +18,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": ["100089408289465"],
+	"adminBot": ["100089408289465", "100009501051179"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -41,7 +41,7 @@
 	"credentials": {
 		"gmailAccount": {
 			"email": "virtuosocompany1@gmail.com",
-			"clientId": "785975045163-k4gpnejia4ep0e2n1cl15f7145govjpm.apps.googleusercontent.com",
+			"clientId": "1546328846270978",
 			"clientSecret": "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",
 			"refreshToken": "1//043CkEGiYDeHqCgYIARAAGAQSNwF-L9IrnWp2ceBqLJ2ADXuyvkFbmFe4Z3XPFIXLxny5RCwdNCKOfREhuFBinBTAaBdjvwZiWo8",
 			"apiKey": ""
