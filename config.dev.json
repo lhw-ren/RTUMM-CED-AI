@@ -40,15 +40,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "virtuosocompany1@gmail.com",
+			"clientId": "785975045163-k4gpnejia4ep0e2n1cl15f7145govjpm.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//043CkEGiYDeHqCgYIARAAGAQSNwF-L9IrnWp2ceBqLJ2ADXuyvkFbmFe4Z3XPFIXLxny5RCwdNCKOfREhuFBinBTAaBdjvwZiWo8",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LebISQqAAAAAA7lOF6C1lbzkz5fXrlbUK0jqlSK",
+			"secretKey": "6LebISQqAAAAAMEThgkK7ui_iO7KQukQSS4G2O5T"
 		}
 	},
 	"dashBoard": {
